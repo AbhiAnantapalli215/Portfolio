@@ -1,9 +1,9 @@
 # 💼 My Developer Portfolio
 
 This is a personal developer portfolio built with **React (JSX)** and styled using **CSS/TailwindCSS**. It showcases my skills, projects, and contact information in a clean, responsive layout.
-<center>
+
 <img src="./src/static/profile.jpeg" alt="Portfolio preview" width="300"/>
-</center>
+
 ---
 
 ## 🚀 Features
