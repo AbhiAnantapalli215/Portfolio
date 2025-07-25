@@ -9,7 +9,7 @@ This is a personal developer portfolio built with **React (JSX)** and styled usi
 ## 🚀 Features
 
 - 🔧 Built with **React**
-- 🎨 Custom styling with CSS / TailwindCSS
+- 🎨 Custom styling with CSS
 - 📱 Responsive design
 - 🧠 Portfolio content managed through JSON (`portfolioData.json`)
 - 🌐 Deployed and optimized for fast performance
