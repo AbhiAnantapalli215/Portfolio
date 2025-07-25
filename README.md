@@ -2,7 +2,7 @@
 
 This is a personal developer portfolio built with **React (JSX)** and styled using **CSS/TailwindCSS** (if applicable). It showcases my skills, projects, and contact information in a clean, responsive layout.
 
-![Preview](./src/static/profile.jpeg)
+<img src="./src/static/profile.jpeg" alt="Portfolio preview" width="300"/>
 
 ---
 
@@ -17,7 +17,7 @@ This is a personal developer portfolio built with **React (JSX)** and styled usi
 ---
 
 ## 📁 Project Structure
-
+```
 src/
 ├── components/ # Reusable UI components (LeftPane, RightPane)
 ├── data/ # Portfolio data (JSON)
@@ -25,7 +25,7 @@ src/
 ├── App.jsx # Root component
 ├── main.jsx # React entry point
 ├── styles.css # Global styles
-
+```
 
 ---
 
